@@ -1,0 +1,17 @@
+{
+  "name": "profiles",
+  "version": "1.0.0",
+  "description": "The api service that handles user profiles",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel DeSante",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-simple-logger": "^1.1.2",
+    "mongoose": "^6.3.4"
+  }
+}
